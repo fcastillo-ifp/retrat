@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.cara {
+    width: 450px;
+    height: 625px;
+    background: #f0c492;
+    top: 50px;
+    margin: 0 auto;
+    border-radius: 100px 100px 200px 200px;
+}
+
+.cabell {
+    width: 450px;
+    height: 150px;
+    background: #482e12;
+    border-radius: 100px 100px 200px 200px / 100px 100px 100px 100px;
+}
+
+.frontal {
+    width: 450px;
+    height: 30px;
+    background: ;
+    text-align: center;
+
+}
+
+.celles {
+    width: 175px;
+    height: 30px;
+    border-radius: 20%;
+    background-color: #482e12;
+    display: inline-block;
+    top: 10px;
+    margin: 0px 10px;
+}
+
+.vista {
+    width: 450px;
+    height: 100px;
+    background:;
+    text-align: center;
+    position: absolute;
+    top:200px;
+}
+
+.ull {
+    transform: scale(%);
+    margin: 0 25px;
+    width: 150px;
+    height: 75px;
+    background: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.ullder {
+
+}
+
+.ullizq {
+
+}
+
+  /* Iris */
+.iris {
+    width: 60px;
+    height: 60px;
+    background-color: #482e12;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+    margin: 0 auto;
+    overflow: hidden;
+    top: 5px;
+}
+
+  /* Pupila */
+.pupila {
+    width: 30px;
+    height: 30px;
+    background-color: #000;
+    border-radius: 50%;
+    margin: 0 auto;
+    top: 15px;
+}
+
+  /* Contenedor de la boca */
+.boca {
+    width: 450px;
+    height: 50px;
+    margin: 50px auto;
+    background:; 
+    position: absolute;
+    top: 400px;
+}
+
+  /* Labio superior */
+.labiosup {
+    width: 200px;
+    height: 25px;
+    background: #e57373; /* Color del labio superior */
+    border-radius: 50% 50% 0 0;
+    margin: 0 auto;
+    box-shadow: inset 0px -5px 10px rgba(0, 0, 0, 0.2);
+}
+
+  /* Labio inferior */
+.labioinf {
+    width: 200px;
+    height: 30px;
+    background: #f06262; /* Color del labio inferior */
+    border-radius: 0 0 50% 50%;
+margin: 0 auto;
+    box-shadow: inset 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.barbilla {
+    width: 100px;
+    height: 1px;
+    margin: 0 auto;
+    top: 370px;
+    background-color: bisque;
+    
+
+}
